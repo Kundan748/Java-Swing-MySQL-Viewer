@@ -20,5 +20,5 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Kundan748/Java-Swing-MySQL-Viewer.git
+   cd Java-Swing-MySQL-Viewer
